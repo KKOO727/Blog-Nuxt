@@ -1,0 +1,62 @@
+{
+    "sectionTitle": "Feedback from our clients.",
+    "sectionSubTitle": "Testimonials",
+    "testimonials": [
+        {
+            "id": 1,
+            "name": "Yeasin Rony",
+            "position": "PR Officer",
+            "thumb": "/img/testimonial/clint-1/clint-1.jpg",
+            "alt": "client image",
+            "text": "“Theme is <span>@initiative</span> to use. Even for a WordPress beginner like me, Brook offers all the functions and features with simple instructions”"
+        },
+        {
+            "id": 2,
+            "name": "Tasnim Akter",
+            "position": "PR Officer",
+            "thumb": "/img/testimonial/clint-1/clint-2.jpg",
+            "alt": "client image",
+            "text": "“Theme is <span>@initiative</span> to use. Even for a WordPress beginner like me, Brook offers all the functions and features with simple instructions”"
+        },
+        {
+            "id": 3,
+            "name": "Uzzal Hossain",
+            "position": "PR Officer",
+            "thumb": "/img/testimonial/clint-1/clint-3.jpg",
+            "alt": "client image",
+            "text": "“Theme is <span>@initiative</span> to use. Even for a WordPress beginner like me, Brook offers all the functions and features with simple instructions”"
+        },
+        {
+            "id": 4,
+            "name": "Maria",
+            "position": "PR Officer",
+            "thumb": "/img/testimonial/clint-1/clint-4.jpg",
+            "alt": "client image",
+            "text": "“Theme is <span>@initiative</span> to use. Even for a WordPress beginner like me, Brook offers all the functions and features with simple instructions”"
+        },
+        {
+            "id": 5,
+            "name": "Bindu",
+            "position": "PR Officer",
+            "thumb": "/img/testimonial/clint-1/clint-5.jpg",
+            "alt": "client image",
+            "text": "“Theme is <span>@initiative</span> to use. Even for a WordPress beginner like me, Brook offers all the functions and features with simple instructions”"
+        },
+        {
+            "id": 6,
+            "name": "Raju",
+            "position": "PR Officer",
+            "thumb": "/img/testimonial/clint-1/clint-6.jpg",
+            "alt": "client image",
+            "text": "“Theme is <span>@initiative</span> to use. Even for a WordPress beginner like me, Brook offers all the functions and features with simple instructions”"
+        },
+        {
+            "id": 7,
+            "name": "Harley Mills",
+            "position": "PR Officer",
+            "thumb": "/img/testimonial/clint-1/clint-7.jpg",
+            "alt": "client image",
+            "text": "“Theme is <span>@initiative</span> to use. Even for a WordPress beginner like me, Brook offers all the functions and features with simple instructions”"
+        }
+    ]
+}

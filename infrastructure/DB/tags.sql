@@ -1,0 +1,15 @@
+INSERT INTO "tags"("tag_id", "tag_name") VALUES (1, 'Car accidents');
+INSERT INTO "tags"("tag_id", "tag_name") VALUES (2, 'Crossroads');
+INSERT INTO "tags"("tag_id", "tag_name") VALUES (3, 'Motorbikes');
+INSERT INTO "tags"("tag_id", "tag_name") VALUES (4, 'Police');
+INSERT INTO "tags"("tag_id", "tag_name") VALUES (5, 'Trucks');
+INSERT INTO "tags"("tag_id", "tag_name") VALUES (6, 'Pedestrians');
+INSERT INTO "tags"("tag_id", "tag_name") VALUES (7, 'Highways');
+INSERT INTO "tags"("tag_id", "tag_name") VALUES (8, 'Tramway');
+INSERT INTO "tags"("tag_id", "tag_name") VALUES (9, 'Bus');
+INSERT INTO "tags"("tag_id", "tag_name") VALUES (10, 'driving');
+INSERT INTO "tags"("tag_id", "tag_name") VALUES (11, 'crash');
+INSERT INTO "tags"("tag_id", "tag_name") VALUES (12, 'bikes');
+INSERT INTO "tags"("tag_id", "tag_name") VALUES (13, 'dashcam');
+INSERT INTO "tags"("tag_id", "tag_name") VALUES (16, 'asdte');
+INSERT INTO "tags"("tag_id", "tag_name") VALUES (17, 'John Doe');

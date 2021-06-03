@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "logo": "/img/testimonial/clint-2/client-logo-01.png"
+    },
+    {
+        "id": 2,
+        "logo": "/img/testimonial/clint-2/client-logo-02.png"
+    },
+    {
+        "id": 3,
+        "logo": "/img/testimonial/clint-2/client-logo-03.png"
+    },
+    {
+        "id": 4,
+        "logo": "/img/testimonial/clint-2/client-logo-04.png"
+    },
+    {
+        "id": 5,
+        "logo": "/img/testimonial/clint-2/client-logo-05.png"
+    },
+    {
+        "id": 6,
+        "logo": "/img/testimonial/clint-2/client-logo-06.png"
+    }
+]
